@@ -1,0 +1,36 @@
+header {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 40px;
+  padding: 30px;
+  color: orange;
+  background-color: black;
+  border: 7px solid orange;
+  margin: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+}
+.vanlig-text {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 75px;
+}
+a {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+.summering {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 75px;
+}

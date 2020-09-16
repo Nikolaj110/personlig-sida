@@ -2,14 +2,20 @@ header {
   font-family: "Times New Roman", Times, serif;
   font-size: 40px;
   padding: 30px;
-  color: orange;
-  background-color: black;
-  border: 7px solid orange;
+  background-color: #358597;
+  color: #cfdcb4;
+  border: 7px solid #f4a896;
   margin: 15px;
   margin-bottom: 10px;
   text-align: center;
 }
+header > h1 {
+border: 5px solid #f4a896;
+margin-right: 35%;
+margin-left: 35%;
 
+
+}
 h1 {
   font-family: "Times New Roman", Times, serif;
   text-align: center;

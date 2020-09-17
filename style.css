@@ -1,5 +1,5 @@
 header {
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
   padding: 30px;
   background-color: #358597;
   color: #cfdcb4;
@@ -12,33 +12,29 @@ header > h1 {
   border: 5px solid #f4a896;
   margin-right: 35%;
   margin-left: 35%;
-  font-family: 'Anton', sans-serif;
+  font-family: "Anton", sans-serif;
   font-size: 35px;
 }
 .ankare {
-
-display:flex;
-justify-content: space-evenly;
-padding-bottom: 5px;
-padding-top: 25px;
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 5px;
+  padding-top: 25px;
 }
 
-.ankare-text{
-font-size: 20px;
-color: #cfdcb4;
-border: 3px solid #f4a896;
-padding: 8px;
-padding-top: 2px;
-padding-bottom: 2px;
-font-family: 'Anton', sans-serif;
-text-decoration: none;
-
+.ankare-text {
+  font-size: 20px;
+  color: #cfdcb4;
+  border: 3px solid #f4a896;
+  padding: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-family: "Anton", sans-serif;
+  text-decoration: none;
 }
-.ankare-text:hover{
-text-decoration: underline;
-
+.ankare-text:hover {
+  text-decoration: underline;
 }
-
 
 h1 {
   font-family: "Times New Roman", Times, serif;

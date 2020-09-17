@@ -1,7 +1,5 @@
 header {
   font-family: 'Anton', sans-serif;
-
-  font-size: 40px;
   padding: 30px;
   background-color: #358597;
   color: #cfdcb4;
@@ -21,16 +19,24 @@ header > h1 {
 
 display:flex;
 justify-content: space-evenly;
-
+padding-bottom: 5px;
+padding-top: 25px;
 }
 
 .ankare-text{
 font-size: 20px;
 color: #cfdcb4;
-border: 5px solid #f4a896;
-padding: 5px;
+border: 3px solid #f4a896;
+padding: 8px;
+padding-top: 2px;
+padding-bottom: 2px;
 font-family: 'Anton', sans-serif;
 text-decoration: none;
+
+}
+.ankare-text:hover{
+text-decoration: underline;
+
 }
 
 
@@ -47,9 +53,7 @@ h1 {
   margin-left: 20%;
   margin-top: 75px;
 }
-a {
- 
-}
+
 .summering {
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;

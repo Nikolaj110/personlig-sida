@@ -16,11 +16,16 @@ margin: 15px;
 text-align: center;
 font-size: 22px;
 padding: 10px;
+font-family: "Anton", sans-serif;
+
 }
 .side-header > nav > a{
 text-decoration: none;
 color: #cfdcb4;
 
+}
+.side-header > nav > a:hover{
+  text-decoration: underline;
 }
 .side-header > h1{
   border: 4px solid #f4a896;

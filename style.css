@@ -14,8 +14,12 @@ color: #cfdcb4;
 border: 7px solid #f4a896;
 margin: 15px;
 text-align: center;
-font-size: 28px;
+font-size: 22px;
 padding: 10px;
+}
+.side-header > nav > a{
+text-decoration: none;
+color: #cfdcb4;
 
 }
 .side-header > h1{

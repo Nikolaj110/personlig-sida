@@ -87,9 +87,16 @@ h1 {
 footer {
   background-color: #358597;
   color: #cfdcb4;
+  margin: 0px;
 }
 
-td {
-  width: 20%;
-  text-align: center;
+
+footer > table  {
+width: 100%;
+padding-bottom: 100px;
+}
+
+.footer-rader {
+display: flex;
+justify-content: space-evenly;
 }

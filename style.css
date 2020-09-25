@@ -70,7 +70,7 @@ h1 {
 }
 .vanlig-text {
   font-family: "Times New Roman", Times, serif;
-  font-size: 18px;
+  font-size: 20px;
   margin-right: 20%;
   margin-left: 20%;
   margin-top: 75px;
@@ -85,15 +85,17 @@ h1 {
 }
 
 footer {
+  font-family: "Anton", sans-serif;
   background-color: #358597;
   color: #cfdcb4;
   margin: 0px;
+  border: solid 5px;
+  border-color: #f4a896;
 }
 
 
 footer > table  {
 width: 100%;
-padding-bottom: 100px;
 }
 
 .footer-rader {
